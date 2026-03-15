@@ -17,7 +17,6 @@
 - 🌱 Learning: Advanced LangChain, MLOps, and French 🇫🇷
 - 💼 **Actively seeking AI/ML internships** — available immediately
 - 📫 Reach me: open to DMs on LinkedIn
-- AI/ML Intern at Aortem (9/25 - 12/25)
 ---
 
 ## 🛠️ Tech Stack
