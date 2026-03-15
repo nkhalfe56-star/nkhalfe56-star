@@ -70,11 +70,10 @@
 
 ## 💼 Experience
 
-- **Software Quality Assurance Intern** — Aortem
+- **AI/ML Intern** — Aortem *(built and evaluated AI/ML models, contributed to production pipelines)*
 - **AI/ML Project Work** — Forage programs (JP Morgan, Goldman Sachs, Oracle, Deloitte) *(data analytics & ML on real business datasets)*
 - **Cybersecurity & Data Analytics** — Virtual training programs
 ---
-
 ## 🎯 What I'm Currently Building
 
 ```python
