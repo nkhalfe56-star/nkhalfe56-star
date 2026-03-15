@@ -72,10 +72,21 @@
 ## 💼 Experience
 
 - **Software Quality Assurance Intern** — Aortem
-- **AI/ML Virtual Intern** — Deloitte, JP Morgan Chase, Goldman Sachs, Oracle (simulations)
-- **Cybersecurity & Data Analytics** — Virtual internship programs
-
+- **AI/ML Project Work** — Forage programs (JP Morgan, Goldman Sachs, Oracle, Deloitte) *(data analytics & ML on real business datasets)*
+- **Cybersecurity & Data Analytics** — Virtual training programs
 ---
+
+## 🎯 What I'm Currently Building
+
+```python
+current_projects = {
+    "LLM Agent": "Multi-step RAG with tool-use for business Q&A",
+    "Fraud Detection API": "Real-time scoring with FastAPI + Docker",
+    "NLP Pipeline": "DistilBERT fine-tuned on 50K tweets — 87% acc",
+    "Goal": "Land AI/ML internship by April 2026"
+}
+```
+
 
 ## 🎯 Currently Looking For
 
