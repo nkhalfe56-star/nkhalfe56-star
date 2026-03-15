@@ -48,11 +48,10 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [sentiment-analysis-social-media](https://github.com/nkhalfe56-star/sentiment-analysis-social-media) | NLP pipeline with 87% accuracy using BERT | PyTorch, BERT, spaCy |
-| [customer-support-agent](https://github.com/nkhalfe56-star/customer-support-agent) | RAG-based AI agent with citation support | LangChain, OpenAI, FastAPI |
-| [realtime-fraud-detection-system](https://github.com/nkhalfe56-star/realtime-fraud-detection-system) | 96% precision fraud detection with SHAP | XGBoost, Kafka, Redis |
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [sentiment-analysis-social-media](https://github.com/nkhalfe56-star/sentiment-analysis-social-media) | NLP pipeline for tweet sentiment | PyTorch, BERT, spaCy | [🤗 Live](https://huggingface.co/spaces/InsaneNabz/sentiment-analysis-social-media) |
+| [customer-support-agent](https://github.com/nkhalfe56-star/customer-support-agent) | RAG-based AI agent with citation support | LangChain, OpenAI, FastAPI |  || [realtime-fraud-detection-system](https://github.com/nkhalfe56-star/realtime-fraud-detection-system) | 96% precision fraud detection with SHAP | XGBoost, Kafka, Redis |
 | [resume-screener-job-fit](https://github.com/nkhalfe56-star/resume-screener-job-fit) | Semantic resume-job matching with BERT | Sentence-BERT, FastAPI |
 | [invoice-contract-analyzer](https://github.com/nkhalfe56-star/invoice-contract-analyzer) | GPT-4 powered legal document analysis | LangChain, GPT-4, React |
 | [stock-crypto-sentiment-signal-engine](https://github.com/nkhalfe56-star/stock-crypto-sentiment-signal-engine) | FinBERT trading signals with backtesting | FinBERT, Backtrader |
