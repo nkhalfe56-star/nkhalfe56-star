@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nkhalfe 👋</h1>
-<h3 align="center">AI & Data Science Student @ IIT Jodhpur | Building AI tools with real business impact</h3>
+<h3 align="center">Applied AI & Data Science Student @ IIT Jodhpur | Building AI tools with real business impact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nkhalfe56-star" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 - 🌱 Learning: Advanced LangChain, MLOps, and French 🇫🇷
 - 💼 **Actively seeking AI/ML internships** — available immediately
 - 📫 Reach me: open to DMs on LinkedIn
-
+- AI/ML Intern at Aortem (9/25 - 12/25)
 ---
 
 ## 🛠️ Tech Stack
